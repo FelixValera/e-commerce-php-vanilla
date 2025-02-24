@@ -1,0 +1,171 @@
+[21-Apr-2022 15:30:15 UTC] PHP Warning:  sha1_file(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 191
+[21-Apr-2022 15:30:15 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 195
+[21-Apr-2022 15:30:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 224
+[21-Apr-2022 15:30:43 UTC] PHP Warning:  sha1_file(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 191
+[21-Apr-2022 15:30:43 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 195
+[21-Apr-2022 15:30:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 224
+[21-Apr-2022 15:44:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:45:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:49:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:49:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:51:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:56:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:57:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 15:58:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:03:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:04:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:07:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:09:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:10:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:11:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:34:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:35:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:35:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:37:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:37:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 289
+[21-Apr-2022 16:37:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 289
+[21-Apr-2022 16:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 289
+[21-Apr-2022 16:37:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 283
+[21-Apr-2022 16:40:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 281
+[21-Apr-2022 16:43:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 281
+[21-Apr-2022 16:47:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 281
+[21-Apr-2022 16:47:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 281
+[21-Apr-2022 16:49:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 16:54:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 16:54:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 16:54:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 16:56:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 16:58:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:05:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/ini.php:46) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:06:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:09:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:14:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:4) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:15:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:18:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:20:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:20:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:23:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:4) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:24:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:4) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:25:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:26:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home4/wxylokxy/public_html/admin/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/wxylokxy/public_html/admin/index.php on line 1
+[21-Apr-2022 17:27:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:28:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:29:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:30:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:31:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:32:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:33:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:34:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:35:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/index.php:5) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:41:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:48:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:48:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:49:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:49:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:51:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:51:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[21-Apr-2022 17:52:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:16:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:19:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/header.php on line 3
+[22-Apr-2022 17:24:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:28:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/funciones.php:447) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:28:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/funciones.php:447) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/funciones.php:447) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:29:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/funciones.php:447) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:30:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 17:30:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wxylokxy/public_html/admin/header.php:1) in /home4/wxylokxy/public_html/admin/funciones.php on line 279
+[22-Apr-2022 18:21:28 UTC] PHP Warning:  sha1_file(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 189
+[22-Apr-2022 18:21:28 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 193
+[22-Apr-2022 18:21:45 UTC] PHP Warning:  sha1_file(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 189
+[22-Apr-2022 18:21:45 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 193
+[22-Apr-2022 18:22:20 UTC] PHP Warning:  sha1_file(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 189
+[22-Apr-2022 18:22:20 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 193
+[03-May-2022 15:28:30 UTC] PHP Warning:  sha1_file(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 209
+[03-May-2022 15:28:30 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/wxylokxy/public_html/admin/funciones.php on line 213
+[03-May-2022 16:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in /home4/wxylokxy/public_html/admin/funciones.php:538
+Stack trace:
+#0 /home4/wxylokxy/public_html/admin/usuario.php(17): registrarUsuarios('felix', 'german', 'felixgermanv@gm...', '1234')
+#1 {main}
+  thrown in /home4/wxylokxy/public_html/admin/funciones.php on line 538
+[03-May-2022 16:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printf_r() in /home4/wxylokxy/public_html/admin/funciones.php:539
+Stack trace:
+#0 /home4/wxylokxy/public_html/admin/usuario.php(17): registrarUsuarios('felix', 'german', 'felixgermanv@gm...', '1234')
+#1 {main}
+  thrown in /home4/wxylokxy/public_html/admin/funciones.php on line 539
+[17-Jun-2022 17:37:42 UTC] PHP Warning:  getimagesize(null): failed to open stream: No such file or directory in /home4/wxylokxy/public_html/admin/funciones.php on line 248
+[18-Sep-2023 21:39:06 UTC] PHP Warning:  getimagesize(null): failed to open stream: No such file or directory in /home4/wxylokxy/public_html/admin/funciones.php on line 248
+[04-Feb-2025 03:27:01 UTC] PHP Warning:  Undefined array key "email" in /home4/wxylokxy/public_html/admin/usuario.php on line 29
+[04-Feb-2025 03:27:01 UTC] PHP Warning:  Undefined array key "pass" in /home4/wxylokxy/public_html/admin/usuario.php on line 30
