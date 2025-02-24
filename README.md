@@ -21,6 +21,11 @@ Este proyecto es una tienda en línea desarrollada con **PHP, MySQL, HTML y Java
 Los mensajes enviados desde el módulo de "Contacto" llegan al siguiente correo:  
 
 📧 **Email:** `aristidesganzon@gmail.com`  
-🔑 **Clave:** `hola123456789.`  
+🔑 **Clave:** `hola123456789.`
+
+## 🌐 Demo del Proyecto  
+Puedes ver el proyecto en el siguiente enlace:  
+
+🔗 **[Ver Demo](http://wxylokxy.micerino.urltemporal.com/?page=inicio)**  
 
 ---
