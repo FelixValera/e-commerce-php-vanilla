@@ -26,6 +26,6 @@ Los mensajes enviados desde el módulo de "Contacto" llegan al siguiente correo:
 ## 🌐 Demo del Proyecto  
 Puedes ver el proyecto en el siguiente enlace:  
 
-🔗 **[Ver Demo](http://wxylokxy.micerino.urltemporal.com/?page=inicio)**  
+🔗 **[Ver Demo](http://wxylokxy.micerino.urltemporal.com/)**  
 
 ---
