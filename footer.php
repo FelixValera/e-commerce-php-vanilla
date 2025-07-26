@@ -24,11 +24,11 @@
 					<div class="footer-bottom-cate cate-bottom">
 						<h6>DIRECCIÓN</h6>
 						<ul>
-							<li>Lavalle 648, 8° Piso</li>
+							<li>CALLE 1458, 12° Piso</li>
 							<li>C.A.B.A.</li>
 							<li>Buenos Aires</li>
 							<li>Argentina</li>
-							<li class="phone">(011) 4328-0457</li>
+							<li class="phone">(011) 52647-14584</li>
 						</ul>
 					</div>
 					<div class="clearfix"></div>
