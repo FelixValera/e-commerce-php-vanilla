@@ -27,5 +27,6 @@ Los mensajes enviados desde el módulo de "Contacto" llegan al siguiente correo:
 Puedes ver el proyecto en el siguiente enlace:  
 
 🔗 **[Ver Demo](http://wxylokxy.micerino.urltemporal.com/)**  
+> ⚠️ *Se usa `http` en lugar de `https` para asegurar una correcta visualización sin problemas de contenido mixto.*
 
 ---
